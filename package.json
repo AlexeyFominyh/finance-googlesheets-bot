@@ -11,9 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "google-spreadsheet": "^3.3.0",
     "telegraf": "^4.10.0"
   },
   "devDependencies": {
+    "@types/google-spreadsheet": "^3.3.0",
     "@types/node": "^18.11.9",
     "nodemon": "^2.0.20",
     "ts-node": "^10.9.1",
